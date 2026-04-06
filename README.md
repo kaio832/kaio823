@@ -2,8 +2,10 @@
 Currículo .
 # Olá, eu sou o Antonio Carlos
 
-### 🎓 Estudante de Engenharia de Computação @ Uninter
-**Foco em DevOps, Infraestrutura como Código (IaC) e Automação de Sistemas.**
+### 🎓 Formação Acadêmica
+* **Bacharelado em Engenharia de Computação** | Uninter (Em andamento)
+    * Foco em Redes de Computadores, Arquitetura de Sistemas e Sistemas Operacionais.
+    * Aplicação de lógica de engenharia para resolução de problemas de escalabilidade.
 
 Sou apaixonado por entender como as coisas funcionam por baixo do capô. Atualmente, dedico meus estudos em Engenharia para construir arquiteturas de servidores resilientes e automatizar fluxos de trabalho utilizando Python e Linux.
 
@@ -37,9 +39,11 @@ Toolkit de rede desenvolvido para auxiliar em diagnósticos de conectividade e s
 - 🎓 **Bacharelado em Engenharia de Computação** - Centro Universitário Internacional (Uninter)
 - 🎯 Buscando oportunidades para aplicar conceitos de CI/CD, Containerização e Cloud Computing.
 
+### 📊 Estatísticas do GitHub
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio832&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio832&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaio832&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio832&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 ---
